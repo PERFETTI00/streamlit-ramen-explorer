@@ -55,4 +55,30 @@ Este es un prototipo de aplicación web interactiva construido con Streamlit par
     ```
     Esto debería abrir la aplicación en tu navegador web en `http://localhost:8501`.
 
-## Estructura de Archivos
+## Aprendizajes y Desafíos
+
+Durante el desarrollo de este prototipo, he aprendido sobre:
+
+* La creación de interfaces interactivas con diferentes widgets de Streamlit (`multiselect`, `radio`, `selectbox`, `button`, `dataframe`, `metric`, `plotly_chart`, etc.).
+* El manejo y filtrado de datos utilizando la librería Pandas.
+* La generación de visualizaciones informativas y personalizables con Plotly Express.
+* La organización de aplicaciones Streamlit en múltiples páginas para mejorar la estructura y la navegación.
+* La implementación de personalización de temas utilizando CSS inyectado con `st.markdown`.
+* El uso de `@st.cache_data` para optimizar el rendimiento de la carga de datos.
+* La resolución de desafíos como la interacción con gráficos de Plotly y la gestión del estado de los filtros.
+
+## Posibles Mejoras Futuras
+
+* Implementación de un sistema de recomendación de ramen basado en las selecciones o preferencias del usuario.
+* Análisis más detallado de las marcas y estilos de ramen.
+* Integración de más visualizaciones interactivas y exploración de datos.
+* Posibilidad de guardar filtros o preferencias del usuario.
+* Mejoras en la interfaz de usuario y la experiencia del usuario en general.
+
+## ¡Gracias por explorar!
+
+Espero que este prototipo sea de tu interés. ¡Cualquier comentario o sugerencia es bienvenido!
+
+**[Miguel Ángel Perfetti]**
+
+[![LinkedIn](www.linkedin.com/in/miguel-angel-perfetti-510263329)
