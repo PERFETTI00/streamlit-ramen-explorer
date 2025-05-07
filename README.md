@@ -31,10 +31,9 @@ Este es un prototipo de aplicación web interactiva construido con Streamlit par
 
 1.  **Clona este repositorio:**
     ```bash
-    git clone <URL_DE_TU_REPOSITORIO>
+    git clone <https://github.com/PERFETTI00/streamlit-ramen-explorer.git>
     cd streamlit-ramen-explorer
     ```
-    Reemplaza `<URL_DE_TU_REPOSITORIO>` con la URL real de tu repositorio en GitHub.
 
 2.  **Crea un entorno virtual (recomendado):**
     ```bash
