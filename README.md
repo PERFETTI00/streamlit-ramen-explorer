@@ -81,4 +81,4 @@ Espero que este prototipo sea de tu interés. ¡Cualquier comentario o sugerenci
 
 **[Miguel Ángel Perfetti]**
 
-[![LinkedIn](www.linkedin.com/in/miguel-angel-perfetti-510263329)
+[LinkedIn](www.linkedin.com/in/miguel-angel-perfetti-510263329)
